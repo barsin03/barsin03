@@ -1,4 +1,4 @@
-# Hi, I'm Barsin
+# Barsin Naderi
 
 Business student, content creator & beginner programmer.
 
