@@ -1,31 +1,58 @@
-# Barsin Naderi
+<h1 align="center">Barsin Naderi</h1>
 
-Business student, content creator & beginner programmer.
+<p align="center">
+  Business student · Content creator · Beginner programmer<br>
+  <i>Turning creativity and data into something meaningful.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/barsin-naderi-60a46a219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:barsinnaderi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
-## 🌱 Learning
 
-- **Python**, my first programming language
-- **Data science fundamentals**, including data analysis and visualization
-- **German**
+## 👩‍💻 About Me
+
+I'm a Business Administration student who loves creating content. I'm now learning programming and data science to combine creative thinking with analytical skills.
+
+## 🌱 Currently Learning
+
+- 🐍 **Python**, my first programming language
+- 📊 **Data science fundamentals**, including data analysis and visualization
+- 🇩🇪 **German**
 
 ## 🛠️ Skills
-Adobe Suite · Video editing · Social media · Events organizing · AI-prompting
+
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+</p>
+
+**Also:** Video editing · Social media · Event organizing · AI prompting
 
 ## 🌍 Languages
 
 | Language | Level |
 |----------|-------|
-| Persian | Native |
-| Turkish | Fluent |
-| English | Fluent |
-| German | Learning |
+| 🇮🇷 Persian | Native |
+| 🇹🇷 Turkish | Fluent |
+| 🇬🇧 English | Fluent |
+| 🇩🇪 German | Learning |
+
+## 🎯 Goals
+
+- Build and share my first Python projects here
+- Combine business knowledge with data skills
+- Keep growing as both a creator and a developer
 
 ## ✨ Beyond Code
-Content creation · Board games · Movies · Travel
 
-## 📫 Contact
-- Email: *barsinnaderi@gmail.com*
+Content creation · Board games · Movies · Travel · Discovering new places
 
 
 
