@@ -45,19 +45,18 @@ I'm a Business Administration student who loves creating content. I'm now learni
 
 ### 🤖 Tech & AI
 
-![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI Prompting](https://img.shields.io/badge/AI%20Prompting-Beginner-8A2BE2?style=for-the-badge)
-
+- 🐍 **Python** · Beginner
+- 🤖 **AI Prompting** · Beginner
 
 
 ## 🌍 Languages
 
-| Language | Level |
-|----------|-------|
-| 🇮🇷 Persian | Native |
-| 🇹🇷 Turkish | Fluent |
-| 🇬🇧 English | Fluent |
-| 🇩🇪 German | Learning |
+```text
+🇮🇷  Persian   ●●●●●  Native
+🇬🇧  English   ●●●●●  Native
+🇹🇷  Turkish   ●●●●○  Fluent
+🇩🇪  German    ●○○○○  Learning
+```
 
 ## 🎯 Goals
 
