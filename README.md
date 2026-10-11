@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Barsin
 
-<!--
-**barsin03/barsin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business student, content creator & beginner programmer.
 
-Here are some ideas to get you started:
+---
+## 🌱 Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**, my first programming language
+- **Data science fundamentals**, including data analysis and visualization
+- **German**
+
+## 🛠️ Skills
+Adobe Suite · Video editing · Social media · Events organizing · AI-prompting
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| Persian | Native |
+| Turkish | Fluent |
+| English | Fluent |
+| German | Learning |
+
+## ✨ Beyond Code
+Content creation · Board games · Film · Travel
+
+## 📫 Contact
+- Email: *barsinnaderi@gmail.com*
+
+
+
