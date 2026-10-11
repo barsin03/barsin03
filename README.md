@@ -44,10 +44,10 @@ I'm a Business Administration student who loves creating content. I'm now learni
 - Microsoft Word & PowerPoint
 
 ### 🤖 Tech & AI
-<p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/AI_Prompting-Beginner-8A2BE2?style=for-the-badge">
-</p>
+
+![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompting-Beginner-8A2BE2?style=for-the-badge)
+
 
 
 ## 🌍 Languages
