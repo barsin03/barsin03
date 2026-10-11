@@ -23,16 +23,32 @@ I'm a Business Administration student who loves creating content. I'm now learni
 
 ## 🛠️ Skills
 
+### 🎨 Design & Editing
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
 </p>
 
-**Also:** Video editing · Social media · Event organizing · AI prompting
+- Video editing
+
+### 📱 Content & Social Media
+- Social media management
+- Content planning and scheduling
+- Translation (Persian · Turkish · English)
+
+### 🗂️ Organization & Office Tools
+- University event organizing
+- Google Sheets
+- Microsoft Word & PowerPoint
+
+### 🤖 Tech & AI
+<p>
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Prompting-Beginner-8A2BE2?style=for-the-badge">
+</p>
+
 
 ## 🌍 Languages
 
