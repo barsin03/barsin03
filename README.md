@@ -2,8 +2,7 @@
 
 <p align="center">
   Business student · Content creator · Beginner programmer<br>
-  <i>Turning creativity and data into something meaningful.</i>
-</p>
+ 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barsin-naderi-60a46a219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
