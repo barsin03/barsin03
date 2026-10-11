@@ -22,7 +22,7 @@ Adobe Suite · Video editing · Social media · Events organizing · AI-promptin
 | German | Learning |
 
 ## ✨ Beyond Code
-Content creation · Board games · Film · Travel
+Content creation · Board games · Movies · Travel
 
 ## 📫 Contact
 - Email: *barsinnaderi@gmail.com*
