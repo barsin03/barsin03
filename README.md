@@ -61,7 +61,7 @@ I'm a Business Administration student who loves creating content. I'm now learni
 - Build and share my first Python projects here
 - Combine business knowledge with data skills
 - Keep growing as both a creator and a developer
-- 
+  
 ## ✨ Beyond Code
 
 Content creation · Board games · Movies · Travel · Discovering new places
